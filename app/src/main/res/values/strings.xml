@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mapa Fruške Gore</string>
+    <string name="menu_text">Nacionalni park Fruška Gora</string>
+    <string name="menu_text_view">Izaberite lokaciju</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lokacija_text">Moja Lokacija</string>
+</resources>

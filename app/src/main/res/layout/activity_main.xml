@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.korisnik.sumarskemape.MainActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/topLayer"
+        android:layout_alignParentTop="true"
+        android:background="#00725b"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/text_view_top"
+            android:background="#00725b"
+            android:textColor="#ffffff"
+            android:layout_marginLeft="15dp"
+            />
+    </RelativeLayout>
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/map"
+        android:layout_marginTop="80dp"
+        android:name="com.google.android.gms.maps.SupportMapFragment" />
+
+    <fragment
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/menu_fragment"
+        tools:layout = "@layout/menu_fragment_layout"
+        android:name="com.example.korisnik.sumarskemape.MenuFragment"
+        android:layout_below="@id/topLayer"/>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:onClick="onClick"
+        android:orientation="horizontal"
+        android:id="@+id/gps_layout"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:background="#74a16b">
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:src="@drawable/location"
+            android:layout_centerVertical="true"
+            android:id="@+id/gps_btn"/>
+
+        <TextView
+            android:id="@+id/ml_text"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="@string/lokacija_text"
+            android:gravity="center"
+            android:textSize="15sp"
+            android:textColor="#ffffff"
+            android:layout_toRightOf="@+id/gps_btn"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:orientation="horizontal"
+            android:background="#74a16b"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="30dp">
+
+            <ImageButton
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/globe"
+                android:id="@+id/gps_normal"
+                android:layout_gravity="center" />
+
+            <ImageButton
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/globe1"
+                android:id="@+id/gps_sattelite"
+                android:layout_gravity="center"
+                android:layout_marginLeft="30dp"
+
+                />
+
+            <ImageButton
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/globe2"
+                android:id="@+id/gps_terrain"
+                android:layout_gravity="center"
+                android:layout_marginLeft="30dp"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/splash_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/fruska_gora_appscreen"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+    </LinearLayout>
+</RelativeLayout>

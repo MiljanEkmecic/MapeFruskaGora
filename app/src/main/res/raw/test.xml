@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<Document>
+	<Folder>
+		<names>mountain home and catering</names>
+		<Placemark>
+			<name>restaurant</name>
+			<description>restoran &quot;Plaza&quot; Cortanovci (potencijalni nas objekat)</description>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<Point>
+				<coordinates>20.0135453045,45.1700700726,76.00000000000003</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel</name>
+			<description>hotel Cortanovci-rusevina</description>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<Point>
+				<coordinates>20.0019758474,45.1673380751,128</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mountain Lodge Kozarica</name>
+			<description>izvor-4 kamena, planinarski dom-Kozarica</description>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						19.349632,45.18344299999999,0 19.349392,45.18384999999999,0 19.34917,45.18404499999999,0 19.34891,45.184436,0 19.348904,45.18463300000001,0 19.348682,45.184827,0 19.34836,45.185217,0
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Andrevlje</name>
+			<styleUrl>#point16Style0</styleUrl>
+			<Point>
+				<coordinates>19.6470729914,45.1739700045,-0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brankov cardak</name>
+			<styleUrl>#point16Style0</styleUrl>
+			<Point>
+				<coordinates>19.9172830023,45.16890398229999,200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kids Resort Letenka</name>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<Point>
+				<coordinates>19.6794230305,45.13614096679999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel NORCEV</name>
+			<styleUrl>#point16Style0</styleUrl>
+			<Point>
+				<coordinates>19.8626804352,45.1591086388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Visitor center</name>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<Point>
+				<coordinates>19.8389530275,45.1515029836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Restaurant</name>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<Point>
+				<coordinates>19.829688007,45.1498759724,452.0000000000002</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Motel Lezimir</name>
+			<description>Ruševina</description>
+			<styleUrl>#point16Style0</styleUrl>
+			<Point>
+				<coordinates>19.5836499799,45.1381460018,281.0700000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mountain Lodge GLAVICA</name>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<Point>
+				<coordinates>19.8504354805,45.1857658569,254</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mountain Lodge Jugodent</name>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<Point>
+				<coordinates>19.8374029621,45.1823339704,258</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mountain LodgeOsovlje</name>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<Point>
+				<coordinates>19.7107063886,45.1628831774,421.0000000000002</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mountain Lodge POPOVICA</name>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<Point>
+				<coordinates>19.8269099928,45.1841000374,302</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mountain Lodge Simon</name>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<Point>
+				<coordinates>19.8230279982,45.1837110333,339.9999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mountain LodgeStrazilovo</name>
+			<description>izgoreo</description>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<Point>
+				<coordinates>19.9127730355,45.1724370383,273.9999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mountain Lodge Vojvod</name>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<Point>
+				<coordinates>19.8363360297,45.15082497149999,490.9999999999998</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mountain Lodge ZMAJEVAC</name>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<Point>
+				<coordinates>19.7803054377,45.1595187653,449.435669</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prodavnica</name>
+			<styleUrl>#point16Style0</styleUrl>
+			<Point>
+				<coordinates>19.8049886338,45.18174438740001,197.1945800781</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ptt Odmaraliste Brankovac</name>
+			<styleUrl>#point16Style0</styleUrl>
+			<Point>
+				<coordinates>19.7416310012,45.1579589769,498.0850830000002</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Restaurant SVANUCE</name>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<Point>
+				<coordinates>19.7680130415,45.21005602550001,86.20350599999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Restaurant</name>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<Point>
+				<coordinates>19.7260020208,45.1848620363,155.578461</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kids Resort Testera</name>
+			<styleUrl>#msn_coffee_house_16</styleUrl>
+			<Point>
+				<coordinates>19.6500980202,45.1835490111,-0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<names>monument</names>
+		<Placemark>
+			<name>Ledinacka kula</name>
+			<styleUrl>#mfailed0</styleUrl>
+			<Point>
+				<coordinates>19.8057799693,45.1841080002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ciganski logor</name>
+			<styleUrl>#mfailed0</styleUrl>
+			<Point>
+				<coordinates>19.59445199,45.13878797180001,377.9200000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>188</name>
+			<description>Rimski grad,1 garnitura</description>
+			<styleUrl>#point12Style</styleUrl>
+			<Point>
+				<coordinates>20.0084680505,45.1696050446,87.00000000000003</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>183</name>
+			<description>spomenik,2 garniture</description>
+			<styleUrl>#point11Style</styleUrl>
+			<Point>
+				<coordinates>19.9074835517,45.1483244821,390.9999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>181</name>
+			<description>spomenik,2 garniture</description>
+			<styleUrl>#point10Style</styleUrl>
+			<Point>
+				<coordinates>19.8975017946,45.1507393923,442.0000000000002</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>179</name>
+			<description>spomenik Stolovi,1 nadstresnica,3 garniture</description>
+			<styleUrl>#point9Style</styleUrl>
+			<Point>
+				<coordinates>19.8773869872,45.1576716453,500.9999999999998</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>171</name>
+			<description>spomenik-Park Suma,19 garnitura,2 za rekonstrukciju</description>
+			<styleUrl>#point8Style</styleUrl>
+			<Point>
+				<coordinates>19.8453281354,45.1536365133,508.0000000000002</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>151</name>
+			<description>spomenik-Stambolic, 1 garnitura</description>
+			<styleUrl>#point7Style</styleUrl>
+			<Point>
+				<coordinates>19.7897658404,45.1561379246,452.9999999999998</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>150</name>
+			<description>spomenik-Stambolic,1 klupa</description>
+			<styleUrl>#point6Style0</styleUrl>
+			<Point>
+				<coordinates>19.7873999644,45.1578124613,478.0000000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>spomenik</name>
+			<description>pecina-spomenik</description>
+			<styleUrl>#mfailed0</styleUrl>
+			<Point>
+				<coordinates>19.7713787947,45.1808722503,200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>spomenik-Rakovac</name>
+			<description>spomenik-Rakovac</description>
+			<styleUrl>#mfailed0</styleUrl>
+			<Point>
+				<coordinates>19.760233378,45.2064593509,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>123</name>
+			<description>spomenik-III ceta</description>
+			<styleUrl>#point0Style</styleUrl>
+			<Point>
+				<coordinates>19.7421480808,45.15762043189999,494.9999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brankov grob</name>
+			<styleUrl>#msn_icon571</styleUrl>
+			<Point>
+				<coordinates>19.914109027,45.1669250149,302</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kapela Mira 1699</name>
+			<styleUrl>#msn_icon571</styleUrl>
+			<Point>
+				<coordinates>19.9410318676,45.19756221210001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kuća Čika Jove Zmaja</name>
+			<styleUrl>#msn_icon571</styleUrl>
+			<Point>
+				<coordinates>19.8441714328,45.2225334104,109</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ledinacka kula</name>
+			<styleUrl>#msn_icon571</styleUrl>
+			<Point>
+				<coordinates>19.8057799693,45.1841080002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pertovaradinska tvrđava</name>
+			<styleUrl>#msn_icon571</styleUrl>
+			<Point>
+				<coordinates>19.8696059827,45.2488380019,113</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rohalj baze</name>
+			<styleUrl>#msn_icon571</styleUrl>
+			<Point>
+				<coordinates>19.5298980083,45.1411479805,297.89</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Spomenik</name>
+			<styleUrl>#msn_icon571</styleUrl>
+			<Point>
+				<coordinates>19.8397561815,45.15276789670001,511.0627441406</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TV-toranj</name>
+			<styleUrl>#msn_icon571</styleUrl>
+			<Point>
+				<coordinates>19.8620796204,45.1587008592,511.9999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vezirac 1716.</name>
+			<styleUrl>#msn_icon571</styleUrl>
+			<Point>
+				<coordinates>19.8985900171,45.21066698249999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vrdnicka Kula</name>
+			<styleUrl>#msn_icon571</styleUrl>
+			<Point>
+				<coordinates>19.7764420509,45.1472425461,305.0000000000001</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<names>monastery</names>
+		<Placemark id="trip249659_picture4">
+			<name>Ostaci starog manastira Jazak</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>19.75869</longitude>
+				<latitude>45.12685</latitude>
+				<altitude>0</altitude>
+				<heading>-65.362830612476</heading>
+				<tilt>45</tilt>
+				<range>2000</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#failed6</styleUrl>
+			<ExtendedData>
+				<Data name="image">
+					<value>http://farm3.static.flickr.com/2469/3653121264_530596019c.jpg</value>
+				</Data>
+				<Data name="image_width">
+					<value>400</value>
+				</Data>
+				<Data name="pictureId">
+					<value>441425</value>
+				</Data>
+				<Data name="userId">
+					<value>19689</value>
+				</Data>
+				<Data name="username">
+					<value>crnins</value>
+				</Data>
+				<Data name="location">
+					<value>45.1269, 19.7587</value>
+				</Data>
+				<Data name="prevLink">
+					<value>#trip249659_picture3</value>
+				</Data>
+				<Data name="prevImg">
+					<value><![CDATA[<img src="http://www.everytrail.com/images/prev.png" border=0>]]></value>
+				</Data>
+				<Data name="nextLink">
+					<value>#trip249659_picture5</value>
+				</Data>
+				<Data name="nextImg">
+					<value><![CDATA[<img src="http://www.everytrail.com/images/next.png" border=0>]]></value>
+				</Data>
+				<Data name="pic_num">
+					<value>4</value>
+				</Data>
+				<Data name="total_pics">
+					<value>14</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>19.75869,45.12685000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Crkvica u steni</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.7905150149,45.1809849869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Man.Grgeteg</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.9021260068,45.1381709799,273.9999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manastir Beocin</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.7222669609,45.1768289879,202.24</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manastir Besenovo</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.7070824727,45.11688656170001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manastir Djipsa</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.4836845528,45.1678333618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manastir Jazak</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.7653484344,45.1187038422,208</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manastir Krusedol</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.9399910029,45.1193999592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manastir Kuvezdin</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.5109409932,45.1270060334,194.07</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manastir Mala Remeta</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.7432425898,45.11031355709999,250</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manastir Novo Hopovo</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.8464860115,45.1285460405,253</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manastir Petkovica</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.5333289728,45.1260120235,190.95</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manastir Privina Glava</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.2982792854,45.136384964,166</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manastir Rakovac</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.7746199928,45.18469397909999,171</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manastir Ravanica</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.7847890854,45.1286387444,213</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manastir Sisatovac</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.5517259929,45.1252950355,212.09</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manastir Staro Hopovo</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.8583889846,45.1355300099,273.9999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manastir Velika Remeta</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.917768985,45.1429439709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Masna Cupa</name>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<coordinates>19.8860390391,45.1630479656,355.0000000000001</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<names>picnic</names>
+		<Placemark>
+			<name>Popov cot</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.6502599586,45.1358510368,448.1</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rohalj baze</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.5298980083,45.1411479805,297.89</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Park šuma</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.8453281354,45.1536365133,508.0000000000002</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BRANKOVAC</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.747570334,45.1564632263,468.9999999999998</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ciganski logor</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.59445199,45.13878797180001,377.9200000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Crveni Cot</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.7118390352,45.1505870093,531.9700000000003</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Čerat</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.9232000392,45.18781003540001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Debeli hrast</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.8728379607,45.1682819612,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Direk</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.8882390372,45.1761430129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eko kamp</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.9292585626,45.17403773030001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Erdelj 362 m.</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.7085058875,45.1863991097,361.8654790000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Glavica vrh</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.8513950408,45.1812930219,328.0000000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Iriski venac</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.8296890128,45.1497950032,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Isin Cot</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.7297820076,45.15263697130001,536.5374760000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klupe za odmor kod Lazinog vira</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.8003790062,45.12976803819999,206</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kraljeva stolica</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.820690034,45.15608503480001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LEDINACKI CRNI COT</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.8108390346,45.16082399520001,454.7298280000002</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Orlovac</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.7004301753,45.1594066154,419.9999999999998</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Orlovo bojiste</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.8302159831,45.18071802330001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pavlasov cot 531 m.</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.7175627854,45.1543700136,530.9999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pogled na kamenolom</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.7824829724,45.1705180015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Popov.vrh</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.8178580403,45.1794329938,396.0000000000003</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stolovi</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.8763489723,45.1622459851,474.9999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Strazilovo</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.9168680143,45.1691789925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Testera</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.6500980202,45.1835490111,-0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vaga</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.8197349999,45.17295596189999,367.0000000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zmajevac</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.7796199657,45.1573689748,-0.11</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tresnjevac</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Point>
+				<coordinates>19.6309629735,45.1496240124,391.1399999999999</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+
+
+</Document>

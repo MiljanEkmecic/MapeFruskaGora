@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:background="#00725b">
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:src="@drawable/logo"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:id="@+id/menu_fragment_logo"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:id="@+id/menu_fragment_text"
+        android:text="@string/menu_text"
+        android:gravity="fill"
+        android:layout_gravity="center"
+        android:textSize="16sp"
+        android:layout_marginLeft="12dp"
+        android:textColor="#ffffff"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dp">
+
+        <ImageView
+            android:id="@+id/jezikEn"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:src="@drawable/menu_eng"
+            android:layout_centerInParent="true"
+            android:visibility="gone"/>
+
+       <ImageView
+            android:id="@+id/jezik"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:src="@drawable/menu"
+            android:layout_centerInParent="true"/>
+
+    </RelativeLayout>
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#9900725b"
+        android:layout_marginTop="80dp"
+        android:id="@+id/linearLayout">
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="20dp"
+            android:src="@drawable/meni"
+            android:layout_gravity="center"
+            android:id="@+id/menu_fragment_img_button" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/menu_fragment_lokacija_text"
+            android:text="@string/menu_text_view"
+            android:gravity="fill"
+            android:textColor="#ffffff"/>
+
+        <ImageButton
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="30dp"
+            android:background="@drawable/auto"
+            android:id="@+id/button_auto"
+            android:layout_gravity="center"
+            android:onClick="findNearestPossiblyLocation"
+            />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/categorie_lv"
+        android:visibility="gone"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignParentStart="true">
+
+    </ListView>
+
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="40dp"-->
+    <!--android:orientation="horizontal"-->
+    <!--android:layout_alignParentBottom="true"-->
+    <!--android:layout_gravity="bottom"-->
+    <!--android:background="#9974a16b">-->
+
+</RelativeLayout>
